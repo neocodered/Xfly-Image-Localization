@@ -1,0 +1,7 @@
+train: Heli\images\train
+val: Heli\images\val
+
+nc: 1
+
+names: ["helipad"]
+
