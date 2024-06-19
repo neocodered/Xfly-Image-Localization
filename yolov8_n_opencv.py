@@ -1,3 +1,4 @@
+
 import numpy as np
 import cv2
 from ultralytics import YOLO
@@ -29,7 +30,7 @@ frame_wid = 640
 frame_hyt = 480
 
 # cap = cv2.VideoCapture(1)
-cap = cv2.VideoCapture("Videos/minivideo.mp4")
+cap = cv2.VideoCapture(0)
 
 if not cap.isOpened():
     print("Cannot open camera")
