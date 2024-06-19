@@ -1,5 +1,5 @@
-train: Heli\images\train
-val: Heli\images\val
+train: C:\Users\nadil\Desktop\Xfly-Image-Localization\Heli\train
+val: C:\Users\nadil\Desktop\Xfly-Image-Localization\Heli\val
 
 nc: 1
 
